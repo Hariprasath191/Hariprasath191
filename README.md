@@ -12,9 +12,9 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **awesome AI + IoT projects**
-- 🌱 I’m learning **Python, Backend Dev, and Machine Learning**
-- 👯 I’m looking to collaborate on **open source & community projects**
+- 🔭 I’m currently working on **AI + IoT + Backend projects**
+- 🌱 I’m learning **Python, Machine Learning, and Angular**
+- 👯 I’m looking to collaborate on **open-source & real-world projects**
 - 🎨 I love **drawing, doodle art, and creative design**
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com)** | **[Twitter](https://twitter.com)** | **[Email](mailto:youremail@example.com)**
 
@@ -35,28 +35,28 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariprasath191&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hariprasath191&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariprasath191&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### ✨ Latest Projects
+### ✨ Featured Projects
 
-- 💡 [**Your Cool Project 1**](https://github.com/yourusername/project1) — Short description.
-- 🤖 [**AI + IoT Project**](https://github.com/yourusername/project2) — Short description.
-- 🎨 [**Design Portfolio**](https://github.com/yourusername/portfolio) — Short description.
+- 💡 [**Fatigue Detection System for Drivers**](https://github.com/Hariprasath191) — IoT + AI safety project.
+- 🤖 [**Electric Car IoT Controller**](https://github.com/Hariprasath191) — Smart car control system.
+- 🎨 [**Drawing & Poster Portfolio**](https://github.com/Hariprasath191) — Creative design works.
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Connect with Me!
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -67,9 +67,9 @@
 ---
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Hariprasath191&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 ---
 
-<p align="center">✨ Keep Coding. Keep Creating. Keep Growing. ✨</p>
+<p align="center">✨ **Keep Coding. Keep Creating. Keep Growing!** ✨</p>
