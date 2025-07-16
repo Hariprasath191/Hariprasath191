@@ -2,7 +2,7 @@
 
 <!-- Header GIF / Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hi there! I'm Hari 👋" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Hi there! I'm Hari 👋" width="100%" heght="50px"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Hari Prasath</h1>
